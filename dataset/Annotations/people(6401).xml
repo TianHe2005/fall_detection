@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>JPEGImages</folder>
+	<filename>people(6401).jpg</filename>
+	<path>people(6401).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>12</ymin>
+			<xmax>474</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
