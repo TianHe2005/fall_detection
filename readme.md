@@ -121,6 +121,20 @@
 - **F1曲线**：不同置信度阈值下的F1分数
 - **训练批次可视化**：展示训练过程中的检测效果
 
+## YOLOv8n_custom3 模型可视化
+
+以下是YOLOv8n_custom3模型的可视化结果：
+
+![训练损失曲线](./yolov8n_custom3/results.png)
+
+![混淆矩阵](./yolov8n_custom3/confusion_matrix.png)
+
+![PR曲线](./yolov8n_custom3/PR_curve.png)
+
+![F1曲线](./yolov8n_custom3/F1_curve.png)
+
+- **训练批次可视化**：展示训练过程中的检测效果
+
 ## 未来改进方向
 
 1. 增加更多类别，如站立、行走、坐下等动作识别
